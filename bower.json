@@ -5,7 +5,7 @@
     "Yaroslav Konoplov <yaroslav@inbox.com>"
   ],
   "description": "This snippet of code automatically initializes rollbar with config retrieved from meta tags. Friendly with Turbolinks and pjax.",
-  "main": "rollbar-initializer.js",
+  "main": "initializer.coffee",
   "license": "MIT",
   "ignore": [
     "**/.*",
