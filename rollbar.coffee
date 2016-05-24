@@ -4,7 +4,7 @@ initialize = do ->
   ({config, token, env}) ->
     return if initialized
 
-    throw new Error('Rollbar: token not given') if not token and not config?.token
+    throw new Error('Rollbar initializer: token not given') if not token and not config?.token
 
     initialized    = yes
     _rollbarConfig = config ?
