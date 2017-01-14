@@ -1,5 +1,5 @@
 ###!
-# rollbar-initializer 1.9.2-1 | https://github.com/yivo/rollbar-initializer | MIT License
+# rollbar-initializer 2.0.0 | https://github.com/yivo/rollbar-initializer | MIT License
 ###
 
 initialize = do ->
