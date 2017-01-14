@@ -1,0 +1,34 @@
+{
+  "name": "rollbar-initializer",
+  "version": "1.9.2-1",
+  "description": "This snippet of code automatically initializes rollbar with config retrieved from meta tags. Friendly with Turbolinks and pjax.",
+  "main": "build/rollbar-initializer.js",
+  "dependencies": {},
+  "devDependencies": {
+    "coffee-script": "^1.12.2",
+    "gulp": "^3.9.1",
+    "gulp-coffee": "^2.3.3",
+    "gulp-concat": "^2.6.1",
+    "gulp-replace": "^0.5.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yivo/rollbar-initializer.git"
+  },
+  "keywords": [
+    "rollbar",
+    "snippet",
+    "initializer",
+    "error",
+    "tracking"
+  ],
+  "author": "Yaroslav Konoplov <eahome00@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yivo/rollbar-initializer/issues"
+  },
+  "homepage": "https://github.com/yivo/rollbar-initializer#readme"
+}
